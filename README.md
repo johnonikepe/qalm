@@ -3,5 +3,5 @@ Quick Automated Logging and Monitoring
 
 
 
-![image](./docs/_static/KeepQalm.png)
+<img src="./docs/_static/KeepQalm.png" alt="Drawing" style="width: 230px;"/>
 
